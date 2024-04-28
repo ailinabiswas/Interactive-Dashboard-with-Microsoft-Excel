@@ -34,10 +34,3 @@ This project focuses on analyzing sales data from a retail store to gain insight
 
 4. **Interact with Dashboard**: Open the sales dashboard to explore key metrics, trends, and insights derived from the analysis.
 
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-Special thanks to [mention any specific libraries, resources, or inspirations here].
-
