@@ -1,6 +1,6 @@
 # Vrinda Store Data Analysis
 
-This project focuses on analyzing sales data from a retail store to gain insights into performance, channels, sales vs order, monthly sales, gender wise sales, etc through an interactive dashboard using features like pivot tables, different charts for attractive visualizations and and slicers.
+This project focuses on analyzing sales data from a retail store to gain insights into performance, channels, sales vs order, monthly sales, gender wise sales, etc through an interactive dashboard using features like pivot tables, different charts for attractive visualizations and Slicers.
 
 ![Store Sales](https://github.com/ailinabiswas/Interactive-Dashboard-with-Microsoft-Excel/blob/main/Vrinda%20Store%20Data%20Analysis/screenshot.PNG)
 
