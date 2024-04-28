@@ -10,7 +10,7 @@ This project focuses on analyzing sales data from a retail store to gain insight
 
 - **Data Visualization**: Visualize sales data through interactive charts, graphs, and heatmaps to identify trends, patterns, and outliers.
 
-- **Customer Segmentation**: Analyze customer demographics, purchase history, and behavior to segment customers for targeted marketing strategies.
+- **Customer Segmentation**: Analyze customer demographics, channels, genders and month of the year to segment customers for targeted marketing strategies.
 
 - **Product Performance**: Evaluate the performance of products based on sales volume, revenue contribution, and profitability to optimize inventory and promotions.
 
