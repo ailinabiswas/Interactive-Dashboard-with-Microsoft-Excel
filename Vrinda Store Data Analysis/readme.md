@@ -5,7 +5,7 @@ This project focuses on analyzing sales data from a retail store to gain insight
 ![Store Sales](https://github.com/ailinabiswas/Interactive-Dashboard-with-Microsoft-Excel/blob/main/Vrinda%20Store%20Data%20Analysis/screenshot.PNG)
 
 
-[Watch Demo Video](https://github.com/ailinabiswas/Interactive-Dashboard-with-Microsoft-Excel/blob/main/Vrinda%20Store%20Data%20Analysis/Screen%20recording.mp4)
+[Watch Demo](https://github.com/ailinabiswas/Interactive-Dashboard-with-Microsoft-Excel/blob/main/Vrinda%20Store%20Data%20Analysis/Screenrecording.gif)
 
 ## Features
 
